@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="opencpuClusterAnalysis" Description="A Cluster Analysis Example for opencpu" PageHeight="50000">
+   <Dimension Label="Dimension" Initial="Path" TargetName="Dimension Name" />
+   <Measurement Label="AccountCount" Initial="Sum(Measure)"/>
+   <Measurement Label="AvgOrderSize" Initial="Sum(Measure)"/>
+   <Measurement Label="CustomerCnt" Initial="Sum(Measure)"/>
+   <Text Label="hashkey" Type="text" Initial="x8ed46d775e" Expression="x8ed46d775e"/>
+   <Text Label="ClusterGroup" Type="text" Initial="5" Expression="5"/>
+	<Initiate Name="Chart.Title" value="openCPU Cluster Table" />
+	<Initiate Name="Caption.Text" Value="openCPU Cluster Table" />
+  </ExtensionObject>
