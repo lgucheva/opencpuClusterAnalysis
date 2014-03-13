@@ -1,1 +1,1 @@
-export(X, AccountCount, AvgOrderSize, CustomerCnt, Row, clusterGroup)
+export(AccountCount, AvgOrderSize, CustomerCnt, Row, clusterGroup)
