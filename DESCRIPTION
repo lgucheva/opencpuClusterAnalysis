@@ -1,0 +1,8 @@
+Package: opencpuClusterAnalysis
+Type: OpenCPU Application
+Title: opencpuClusterAnalysis Application for OpenCPU
+Version: 0.1
+Date: 2014-03-13
+Author: Liubov Gucheva
+Maintainer: Gucheva <liubov_gucheva@mail.ru>
+Description: OpenCPU App for opencpuClusterAnalysis package
