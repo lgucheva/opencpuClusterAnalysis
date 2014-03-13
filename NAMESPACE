@@ -1,1 +1,1 @@
-export(opencpuClusterAnalysis)
+export(X, AccountCount, AvgOrderSize, CustomerCnt, Row, clusterGroup)
